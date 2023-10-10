@@ -1,9 +1,9 @@
 <?php
 
-namespace WonderGame\EsNotify\WeChat\Message;
+namespace Yizuan\EsNotify\WeChat\Message;
 
 use EasySwoole\Spl\SplBean;
-use WonderGame\EsNotify\Interfaces\MessageInterface;
+use Yizuan\EsNotify\Interfaces\MessageInterface;
 
 /**
  * 每个微信模板结构都不同，此Message目录仅定义通用的几个，如果各项目需要增加模板，请继承此类

@@ -1,6 +1,6 @@
 <?php
 
-namespace WonderGame\EsNotify\Interfaces;
+namespace Yizuan\EsNotify\Interfaces;
 
 interface MessageInterface
 {

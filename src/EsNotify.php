@@ -1,11 +1,11 @@
 <?php
 
-namespace WonderGame\EsNotify;
+namespace Yizuan\EsNotify;
 
 use EasySwoole\Component\Singleton;
-use WonderGame\EsNotify\Interfaces\ConfigInterface;
-use WonderGame\EsNotify\Interfaces\MessageInterface;
-use WonderGame\EsNotify\Interfaces\NotifyInterface;
+use Yizuan\EsNotify\Interfaces\ConfigInterface;
+use Yizuan\EsNotify\Interfaces\MessageInterface;
+use Yizuan\EsNotify\Interfaces\NotifyInterface;
 
 class EsNotify
 {

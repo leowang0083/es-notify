@@ -1,6 +1,6 @@
 <?php
 
-namespace WonderGame\EsNotify\WeChat\Message;
+namespace Yizuan\EsNotify\WeChat\Message;
 
 class Notice extends Base
 {

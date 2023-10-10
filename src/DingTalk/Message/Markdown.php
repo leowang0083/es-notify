@@ -1,6 +1,6 @@
 <?php
 
-namespace WonderGame\EsNotify\DingTalk\Message;
+namespace Yizuan\EsNotify\DingTalk\Message;
 
 class Markdown extends Base
 {

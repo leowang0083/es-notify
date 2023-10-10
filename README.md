@@ -19,7 +19,7 @@
 
 ## 开始
 
-> composer require wonder-game/es-notify
+> composer require yizuan/es-notify
 
 #### 配置
 

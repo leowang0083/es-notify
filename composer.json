@@ -1,5 +1,5 @@
 {
-  "name": "wonder-game/es-notify",
+  "name": "yizuan/es-notify",
   "description": "Notification utility",
   "type": "library",
   "license": "MIT",
@@ -11,7 +11,7 @@
   },
   "autoload": {
     "psr-4": {
-      "WonderGame\\EsNotify\\": "src"
+      "Yizuan\\EsNotify\\": "src"
     }
   }
 }
